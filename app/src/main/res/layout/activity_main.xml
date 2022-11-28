@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/lastl"
+        android:layout_width="match_parent"
+        android:layout_height="637dp"
+        android:orientation="vertical">
+
+    </LinearLayout>
+
+<HorizontalScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/aqib1"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:srcCompat="@drawable/aqib" />
+
+        <ImageView
+            android:id="@+id/aqib2"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:srcCompat="@drawable/yahya" />
+        <ImageView
+            android:id="@+id/aqib3"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:srcCompat="@drawable/adil" />
+        <ImageView
+            android:id="@+id/aqib4"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:srcCompat="@drawable/aqib" />
+        <ImageView
+            android:id="@+id/aqib5"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:srcCompat="@drawable/yahya" />
+        <ImageView
+            android:id="@+id/aqib6"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:srcCompat="@drawable/adil" />
+        <ImageView
+            android:id="@+id/aqib7"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:srcCompat="@drawable/aqib" />
+        <ImageView
+            android:id="@+id/aqib8"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:srcCompat="@drawable/yahya" />
+        <ImageView
+            android:id="@+id/aqib9"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:srcCompat="@drawable/adil" />
+        <ImageView
+            android:id="@+id/aqib10"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:srcCompat="@drawable/aqib" />
+        <ImageView
+            android:id="@+id/aqib11"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:srcCompat="@drawable/yahya" />
+        <ImageView
+            android:id="@+id/aqib12"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:srcCompat="@drawable/adil" />
+        <ImageView
+            android:id="@+id/aqib13"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:srcCompat="@drawable/aqib" />
+        <ImageView
+            android:id="@+id/aqib14"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:srcCompat="@drawable/yahya" />
+        <ImageView
+            android:id="@+id/aqib15"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:srcCompat="@drawable/aqib" />
+
+    </LinearLayout>
+</HorizontalScrollView>
+
+
+
+</LinearLayout>
